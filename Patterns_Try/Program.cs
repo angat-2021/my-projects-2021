@@ -6,6 +6,7 @@ namespace Patterns_Try
     {
         static void Main(string[] args)
         {
+            //This one is a try!
             Console.WriteLine("Hello World!");
         }
     }
